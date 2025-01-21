@@ -4,6 +4,7 @@
 //
 //  Created by Lucas Schmidt on 1/20/25.
 //
+// Ch 1.7 YouAreAwesome
 
 import SwiftUI
 
